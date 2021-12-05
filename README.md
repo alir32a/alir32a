@@ -2,7 +2,7 @@
 
 <br>
 
-<img alt="astronaut-gopher" src="./assets/gopher-astronaut_dribbble.webp" align="center">
+<img alt="astronaut-gopher" src="https://cdn.dribbble.com/users/1044993/screenshots/6623656/gopher-astronaut_dribbble.png?compress=1&resize=800x400" align="center">
 
 
 ### 👨🏻‍💻 &nbsp;About Me
