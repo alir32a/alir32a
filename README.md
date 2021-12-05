@@ -53,11 +53,10 @@ func main() {
 
 <br>
   <p align="center">
-  <a href="https://www.linkedin.com/in/alireza-ghasempour
-  -639499202/">
+  <a href="https://www.linkedin.com/in/alireza-ghasempour-639499202/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Alireza Ghasempour Linkedin" height="30" width="30" align="center">
   </a>
-  <a href="alirza.qasempour@gmail.com">
+  <a href="mailto: alirza.qasempour@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Alireza Ghasempour Gmail" height="30" width="50" align="center">
   </a>
   </p>
